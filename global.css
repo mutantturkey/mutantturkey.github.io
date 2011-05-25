@@ -1,0 +1,4 @@
+body { font-family:sans-serif; margin: .5em; border:thin; padding: .5em; }
+.head { padding-left: .5em; padding-top: .1em; display:block; background-color: #EEEEEE; border-style: solid ; border-width: .1em; border-color: #000000; }
+.main { border-style:solid; border-width: .1em; margin-top: .5em; padding: .5em;}
+.footer { border-style: solid; border-width: .1em; margin-top: .5em; padding: .2em }
