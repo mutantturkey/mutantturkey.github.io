@@ -1,4 +1,23 @@
-body { font-family:sans-serif; margin: .5em; border:thin; padding: .5em; }
-.head { padding-left: .5em; padding-top: .1em; display:block; background-color: #EEEEEE; border-style: solid ; border-width: .1em; border-color: #000000; }
-.main { border-style:solid; border-width: .1em; margin-top: .5em; padding: .5em;}
-.footer { border-style: solid; border-width: .1em; margin-top: .5em; padding: .2em }
+body { 
+	font-family:sans-serif;
+	margin: 1em;
+	border:thin;
+	padding: .5em; 
+	background: #FEFEFE;
+}
+.footer {  padding-top: 1em; color: grey; }
+
+h1 {
+	margin: 0em;
+}
+
+h2 {
+	border-bottom: .1em dashed #000000;
+}
+p {
+	margin-left: 1em;
+}
+a {
+	text-decoration: none;
+}
+
