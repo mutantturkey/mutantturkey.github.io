@@ -8,27 +8,27 @@ Undergraduate at Temple University expected to graduate 2015
 WORK EXPERIENCE
 
 Math Forum @ Goodwin College (June 2011 – January 2013)
-• Web Developer – The Math Images Project, Drupal, PHP, HTML5
-• Maintained Mediawiki software
-• Developed Drupal replacement
-• Developed HTML5/Java applets
-• Managed Summer interns during second summer
+- Web Developer – The Math Images Project, Drupal, PHP, HTML5
+- Maintained Mediawiki software
+- Developed Drupal replacement
+- Developed HTML5/Java applets
+- Managed Summer interns during second summer
 
 PHP developer – Faculty Review System @ Drexel Department of Computer Science (Jan – March 2012)
-• Revamped Graduate Faculty system for faculty needs
-• Worked with MySQL and PHP5 Techologies
+- Revamped Graduate Faculty system for faculty needs
+- Worked with MySQL and PHP5 Techologies
 
 Computer Vision Programmer – Automated Fly Video Tracking and Analysis @ Drexel C.S. (May – Dec 2012)
-• Benchmarked tools and formalized software review
-• Developed high throughput tools in C
-• Computer vision experience
-• Bash Scripting for automation and parallelization
+- Benchmarked tools and formalized software review
+- Developed high throughput tools in C
+- Computer vision experience
+- Bash Scripting for automation and parallelization
 
 Scientific Programmer – Bioinformatics research tools @ Drexel. ( January 2013 - Present )
-• Developed features for Qiime toolkit
-• Maintained linux servers (OpenSUSE)
-• Developed fully fledged web database with interactive graphs and scripting.
-• Developed Bioinformatic tools, like specialized high-performance DNA parsing.
+- Developed features for Qiime toolkit
+- Maintained linux servers (OpenSUSE)
+- Developed fully fledged web database with interactive graphs and scripting.
+- Developed Bioinformatic tools, like specialized high-performance DNA parsing.
 
 CV
 
