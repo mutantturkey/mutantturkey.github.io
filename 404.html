@@ -1,0 +1,21 @@
+<html>
+<head>
+</head>
+<body>
+<div style="padding:5em; font-family: arial; a:hover, a:visited, a:link, a:active {text-decoration:none;">
+<center>
+<a href="/">
+<img src='images/home.png'>
+</a>
+<h2><div id='text'></div></h2>
+</center>
+</div>
+</body>
+</html>
+
+<script>
+strings = [ 'What do you want?', 'It seems your lost...', 'Can I help you?', 'You didn\'t see anything', 'Fool me once...', 'Fool me twice...', 'Get outta my way!', 'I can hear your browser crying out in confusion' ]
+var res = strings[Math.floor(Math.random() * strings.length)]
+text_field = document.getElementById('text')
+text_field.innerHTML = res
+</script>
