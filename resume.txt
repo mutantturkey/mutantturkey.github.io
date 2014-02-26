@@ -33,8 +33,12 @@ Scientific Programmer - Bioinformatics research tools @ Drexel. ( January 2013 -
 
 CV
 
+G. Ditzler, J. Calvin Morrison, and G. Rosen.
+"FizzyQIIME: Feature Selection for Metagenomics"
+Genomic Science Annual Contractor-Grantee Meeting/USDA-DOE Plant Feedstock Genomics for Bioenergy, 2014.
+
 Yemin Lan, J. Calvin Morrison, Ruth Hershberg, and Gail L. Rosen.
-"POGO-DB" - a database of pairwise-comparisons of genomes and conserved orthologous genes,"
+"POGO-DB" - a database of pairwise-comparisons of genomes and conserved orthologous genes."
 Nucleic Acids Research, 2013. 
 Open Access - http://pogo.ece.drexel.edu
 
