@@ -1,8 +1,11 @@
 John Calvin Morrison
 
-215 429 9384 - MutantTurkey@gmail.com - MutantTurkey.com
+phone: 215-429-9384
+email: mutantturkey@gmail.com
+website: mutantturkey.com
 
 EDUCATIONAL EXPERIENCE
+
 Undergraduate at Temple University expected to graduate 2015
 
 WORK EXPERIENCE
@@ -53,6 +56,7 @@ http://dx.doi.org/10.4161/fly.24110
 
 
 SKILLS
+
 Platforms: Mac OS X, Unix, Plan9, GNU/Linux (Red Hat, Debian, Ubuntu, ArchLinux)
 Languages: C, Bash, XML, HTML, HTML5, PHP5, Javascript, Python, Matlab
 Experience: Linux System Administration, SQL database and Unix Systems, Drupal, Mediawiki, Bugzilla Administration, Scientific Computing, Bioinformatics
