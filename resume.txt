@@ -30,6 +30,9 @@ Scientific Programmer - Bioinformatics research tools @ Drexel. ( January 2013 -
 - Maintained linux servers (OpenSUSE)
 - Developed fully fledged web database with interactive graphs and scripting.
 - Developed Bioinformatic tools, like specialized high-performance DNA parsing.
+- Automated Primer Design
+- Implemented taxonomic classifier in C and OpenMP
+- Web Queuing system for in-house classification software
 
 CV
 
@@ -54,5 +57,4 @@ Platforms: Mac OS X, Unix, Plan9, GNU/Linux (Red Hat, Debian, Ubuntu, ArchLinux)
 Languages: C, Bash, XML, HTML, HTML5, PHP5, Javascript, Python, Matlab
 Experience: Linux System Administration, SQL database and Unix Systems, Drupal, Mediawiki, Bugzilla Administration, Scientific Computing, Bioinformatics
 Research Interests: Computer Vision, Bioinformatics, Biological Modeling, Machine Learning
-Interests: Unix/Linux, C, F/OSS, Embedded systems, Plan9
-
+Interests: Unix/Linux, C, F/OSS, Embedded systems, Plan9, BeOS
