@@ -1,26 +1,25 @@
+html {
+        background: grey;
+        padding 2em;
+}
 body { 
 	font-family:sans-serif;
 	margin: 1em;
-	border:thin;
+	border: .2em #0aaaaa solid;
 	padding: .5em; 
 	background: #FEFEFE;
-}
-.footer {  padding-top: 1em; color: grey; }
-
-h1 {
-	background-image: url(images/home.png);
-	background-repeat: no-repeat;
-	height: 64px;
-	vertical-align:middle;
-	background-position: right center;
+	
 }
 
-h2 {
-	border-bottom: .1em dashed #000000;
+.footer { 
+	padding-top: 1em; 
+	color: grey; 
 }
+
 p {
 	margin-left: 1em;
 }
+
 a {
 	text-decoration: none;
 }
