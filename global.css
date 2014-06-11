@@ -1,12 +1,13 @@
 html {
         background: grey;
-        padding 2em;
 }
+
 body { 
 	font-family:sans-serif;
-	margin: 1em;
+	margin: 1.5em;
 	border: .2em #0aaaaa solid;
-	padding: .5em; 
+	padding: 1em; 
+	padding-top: 1.5em;
 	background: #FEFEFE;
 	
 }
