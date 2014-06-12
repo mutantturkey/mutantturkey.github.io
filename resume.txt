@@ -37,7 +37,7 @@ Scientific Programmer - Bioinformatics research tools @ Drexel. ( January 2013 -
 - Implemented taxonomic classifier in C and OpenMP
 - Web Queuing system for in-house classification software
 
-CV
+PUBLICATIONS
 
 G. Ditzler, J. Calvin Morrison, and G. Rosen.
 "FizzyQIIME: Feature Selection for Metagenomics"

@@ -19,9 +19,28 @@ body {
 
 p {
 	margin-left: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 4em;
 }
 
 a {
 	text-decoration: none;
 }
 
+h3 {
+	margin-left: 1em;
+}
+
+#contact {
+	float:right;
+	position: fixed;
+	right: 3em;
+	top: 3em;
+}
+#contact img {
+	height: 5em;
+	clear: both;
+	width: 5em;
+
+}
