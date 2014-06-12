@@ -5,7 +5,7 @@ html {
 body { 
 	font-family:sans-serif;
 	margin: 1.5em;
-	border: .2em #0aaaaa solid;
+	border: .3em #0aaaaa solid;
 	padding: 1em; 
 	padding-top: 1.5em;
 	background: #FEFEFE;
@@ -42,5 +42,4 @@ h3 {
 	height: 5em;
 	clear: both;
 	width: 5em;
-
 }
