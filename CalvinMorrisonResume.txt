@@ -1,0 +1,54 @@
+John Calvin Morrison
+215-429-9384 |  jcm357@drexel.edu |  mutantturkey.com
+
+WORK EXPERIENCE
+
+Scientific Programmer - Bioinformatics research tools @ Drexel. ( January 2013 - Present )
+PyFeast, a feature selection toolkit wrapper in Python.
+Fizzy, metogenomic feature selection based on PyFeast, and intregrated into QIIME
+Pogo-DB, a fully fledged interactive web database for querying gene similarity between species
+dna-utils, high-performance DNA parsing and primer strand counting.
+SelectiveWholeGenomeAmplification, automated primer design based on brute force sweeps and paramter filtration of specific DNA primers for use in real world samples.
+Quikr, a taxonomic classifier using compressive sensing in C and OpenMP
+Web Queuing system for in-house classification software, written in web2py, for use with quikr
+
+Computer Vision Programmer - Automated Fly Video Tracking and Analysis @ Drexel C.S. (May - Dec 2012)
+Developed high throughput tools in C, using ImageMagick, OpenCV and OpenMP for tracking fruit fly learning and memory tracking.
+Benchmarked tools and formalized software review, and improved performance to make product viable for scientists to use
+experience with color normalization, blob detection, and motion tracking
+scripting for automated processing and modified tools for parallelization across a cluster.
+currently in use at The Maranda Lab at Drexel.
+
+
+Web Developer – The Math Images Project @ Goodwin College / Drexel CS (June 2011 - January 2013)
+Web Developer - The Math Images Project, Drupal, PHP, HTML5
+Maintained Mediawiki software / Prototyped a replacement for Mediawiki in Drupal 
+Developed HTML5/Javascriot applets and Java applets
+
+CV
+
+S. D. Essinger, E. Reichenberger, C. Morrison, C. B. Blackwood, G. L. Rosen
+“A Toolkit for ARB to Integrate Custom Databases and Externally built Phylogenies”
+PLOS One (Accepted) 2014
+
+G. Ditzler, J. Calvin Morrison, and G. Rosen.
+"FizzyQIIME: Feature Selection for Metagenomics"
+Genomic Science Annual Contractor-Grantee Meeting 2014
+
+Yemin Lan, J. Calvin Morrison, Ruth Hershberg, and Gail L. Rosen.
+"POGO-DB" - a database of pairwise-comparisons of genomes and conserved orthologous genes."
+Nucleic Acids Research, 2013.  http://pogo.ece.drexel.edu
+
+Reza MA, Mhatre SD, Morrison J. Calvin, Utreja S, Saunders AJ, Breen David E., Marenda Dan.
+"Automated analysis of courtship suppression learning and memory in Drosophila melanogaster."
+Fly 2013; 7:105 - 111; 
+
+SKILLS
+
+Platforms –  Mac OS X, Unix, GNU/Linux (Red Hat, Suse, Ubuntu, Arch)
+
+Languages –  C, Bash, XML, HTML, PHP5, Javascript, Python, Matlab
+
+Software –  Linux System Administration, MySQL, Drupal, Mediawiki, Bugzilla, Nagios, LDAP, QIIME, BLAST2
+
+Research Interests - Computer Vision, Bioinformatics, Biological Modeling, Machine Learning, High Performance Computing, Real time video tracking.
