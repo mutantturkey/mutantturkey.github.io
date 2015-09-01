@@ -3,7 +3,14 @@ John Calvin Morrison
 
 WORK EXPERIENCE
 
-Scientific Programmer - Bioinformatics research tools @ Drexel. ( January 2013 - Present )
+Software Engineer - Web Development @ Holt's Cigar Company ( January 2015 - Present )
+• Developed www.holts.com, a Magento ecommerce site.
+• Extensively worked with custom magento extensions
+• Aided designers with web oriented design decisions and implementation
+• Maintained and updated Drupal CMS sites
+• Smoked many many cigars along the way
+
+Scientific Programmer - Bioinformatics research tools @ Drexel. ( January 2013 - Fall 2014 )
 • PyFeast, a feature selection toolkit wrapper in Python.
 • Fizzy, metogenomic feature selection based using Python and PyFeast, and intregrated into QIIME,
 • Pogo-DB, a fully fledged interactive web database written in PHP for querying gene similarity between species. MySQL used as backend, PHP frontend.
