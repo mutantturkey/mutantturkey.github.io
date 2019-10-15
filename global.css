@@ -32,12 +32,6 @@ h3 {
 	margin-left: 1em;
 }
 
-#contact {
-	float:left;
-	position: fixed;
-	left: 4em;
-	top: 3em;
-}
 #contact img.sm {
 	height: 3.75em;
 	width: 3.75em;
@@ -45,9 +39,6 @@ h3 {
 
 .main h2:nth-child(1) {
 	margin-top: 0;
-}
-.home-main {
-	margin-left: 375px;
 }
 .sm-wrapper {
 	margin-top:10px;
